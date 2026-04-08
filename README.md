@@ -48,13 +48,10 @@ This project analyzes the Google Play Store dataset to uncover trends in app cat
 
 ## 📈 Visualizations
 
-### 🔹 Category-wise Installs
-
-![Top Categories](screenshots/top_categories.png)
-
-### 🔹 Top Apps by Category
-
-![Top Apps](screenshots/top_apps.png)
+<p align="center">
+  <img src="Visualization/top_installed.png" width="50%" />
+  <img src="Visualization/Top_apps_by_category.png" width="45%" />
+</p>
 
 ---
 ## 🔍 Key Insights
@@ -81,8 +78,8 @@ This project demonstrates how data cleaning, feature engineering, and EDA help t
 
 ## 🔗 Connect
 
-* LinkedIn: https://linkedin.com/in/yourprofile
-* Portfolio: 
+* LinkedIn: www.linkedin.com/in/shahid-ali8171
+* Portfolio: https://github.com/shahidali0101
 
 ---
 
